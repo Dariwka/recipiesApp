@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+
+.container {
+  width: 100vw;
+  height: 100%;
+  background-color: antiquewhite;
+}
+
+header {
+  height: 150px;
+  background: linear-gradient(90deg, #f60303, #fdf903);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem;
+}
+
+.logo {
+  margin: 1rem;
+  padding: 1rem;
+}
+
+main {
+  padding: 0.5rem;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 0 1rem;
+}
+
+p nav li {
+  font-family: "Poppins", sans-serif;
+}
+
+nav {
+  font-size: 1.5rem;
+}
+
+h1 {
+  font-family: "Lobster", cursive;
+}
+
+header a {
+  text-decoration: none;
+  color: #333;
+}
+
+header a:hover {
+  color: white;
+  text-decoration: underline;
+}
+
+footer {
+  min-height: 80px;
+  width: 100%;
+  background: linear-gradient(90deg, #fdf903, #f60303);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  bottom: 0;
+}

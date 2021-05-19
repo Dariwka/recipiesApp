@@ -1,0 +1,139 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --primary-color: white;
+  --secondary-color: rgb(246, 3, 3);
+  --black-color: #111;
+  --orange: orangered;
+}
+
+body {
+  background-color: rgb(255, 242, 220);
+  font-family: "Poppins", sans-serif;
+}
+
+.container-recipes {
+  padding: 40px;
+  margin: 0 auto;
+  max-width: 100%;
+  width: 800px;
+}
+
+div.single.container {
+  margin: 20px;
+}
+
+.btn-recipes,
+button.backToRecipe {
+  background-color: var(--orange);
+  color: var(--primary-color);
+  border: none;
+  border-radius: 5px;
+  font-size: 1rem;
+  font-weight: 600;
+  padding: 20px 35px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  cursor: pointer;
+  box-shadow: 0 5px 5px rgb(95, 93, 73);
+}
+
+a.btn-recipes,
+button.backToRecipe {
+  text-decoration: none;
+}
+
+a.btn-recipes:hover {
+  color: yellow;
+}
+
+button.backToRecipe:hover {
+  color: yellow;
+}
+
+.recipes {
+  background-color: var(--primary-color);
+  display: flex;
+  box-shadow: 0 10px 10px rgb(95, 93, 73);
+}
+
+div.single.container {
+  background-color: var(--primary-color);
+  box-shadow: 0 10px 10px rgb(95, 93, 73);
+  margin-bottom: 100px;
+  margin-top: 20px;
+}
+
+.recipes-img {
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  overflow: hidden;
+  flex: 1;
+}
+
+.recipes-img img {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
+
+.recipes-details {
+  padding: 30px;
+  position: relative;
+  flex: 2;
+}
+
+.recipes-title {
+  margin: 0 0 20px;
+  color: var(--secondary-color);
+}
+
+h3 {
+  color: var(--secondary-color);
+  padding: 20px;
+}
+
+.recipes-instruction {
+  font-size: 14px;
+}
+.recipes-info {
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+}
+
+.recipes-info li {
+  color: grey;
+  font-size: 12px;
+  font-weight: 300;
+  margin-right: 50px;
+}
+.recipiesLists,
+.addForm {
+  padding-bottom: 100px;
+}
+.mail-info li strong {
+  font-size: 18px;
+  display: block;
+}
+
+.recipes-details .btn-recipes {
+  position: absolute;
+  right: -10px;
+  bottom: -10px;
+}
+
+.search {
+  padding: 20px;
+  justify-items: right;
+  display: grid;
+}
+
+.rounded {
+  float: left;
+  margin: 10px 30px 10px 10px;
+}

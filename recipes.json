@@ -1,0 +1,221 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Latvian Cold Beet Soup",
+      "image": [
+        "https://i.pinimg.com/originals/89/f3/2c/89f32cca252968dc7b7b404e0753def5.jpg"
+      ],
+      "recipeCategory": "Soup",
+      "recipeCuisine": "Latvia",
+      "prepTime": "20",
+      "cookTime": "30 min",
+      "totalTime": "50",
+      "recipeYield": "4",
+      "description": "Latvian cold beet soup is loved all over the Baltic States and many other places as well. It is a refreshing soup for a hot summer day.  There are numerous variations to this dish and this one was excellent. The color is a spectacular bright pink.  It is served with a topping of a cut up hard-boiled egg, perfect. The soup is best served the next day when the flavors have a chance to meld together. Enjoy!",
+      "author": {
+        "@type": "Organization",
+        "name": "kitchenApp"
+      },
+      "recipeIngredient": [
+        {
+          "id": 1,
+          "ingName": "small-medium beets",
+          "quantity": "3"
+        },
+        {
+          "id": 2,
+          "ingName": "green cucumbers Persian",
+          "quantity": "2"
+        },
+        {
+          "id": 3,
+          "ingName": "green onions chopped",
+          "quantity": "3-4"
+        },
+        {
+          "id": 4,
+          "ingName": "finely chopped fresh dill",
+          "quantity": "3-4 Tbsp"
+        },
+        {
+          "id": 5,
+          "ingName": "kefir or buttermilk",
+          "quantity": "1 quart"
+        },
+        {
+          "id": 6,
+          "ingName": "grated horseradish",
+          "quantity": "1 Tbsp"
+        },
+        {
+          "id": 7,
+          "ingName": "fresh lemon juice",
+          "quantity": "1 Tbsp"
+        },
+        {
+          "id": 8,
+          "ingName": "salt to taste",
+          "quantity": ""
+        },
+        {
+          "id": 9,
+          "ingName": "freshly ground black pepper to taste",
+          "quantity": ""
+        },
+        {
+          "id": 9,
+          "ingName": "eggs",
+          "quantity": "2-4"
+        }
+      ],
+      "recipeInstructions": "Cut off the greens and use for another purpose. Wash the beets, Put them in a pan with some water and cook until tender. About 30 mins. Let them cool completely, then peel and grate coarsely. Hard-boil the eggs, then cool under cold water Peel and cut into half lengthwise. Wash the cucumbers, cut into small dice. Take a large bowl, throw in the grated beets. Stir in some of the kefir, then season the soup base with horseradish and some salt and pepper. Add the rest of the ingredients, except boiled eggs. Adjust seasoning as necessary. Refrigerate overnight is best but at least a couple of hours. Serve very cold, topping each portion with a boiled egg half or two."
+    },
+    {
+      "id": 2,
+      "name": "Bread Soup",
+      "image": [
+        "breadSoup"
+      ],
+      "recipeCategory": "Dessert ",
+      "recipeCuisine": "Latvia",
+      "prepTime": "20",
+      "cookTime": "30 min",
+      "totalTime": "50",
+      "recipeYield": "1",
+      "description": "Maizes zupa is a delicious way to use any leftover rye bread as it is boiled in water over low heat and infused with sweetness from dried fruits. The addition of cinnamon, cloves, and a little brown sugar enhances the tangy flavor of the rye. When it’s complete, serve cold and top with whipped cream.",
+      "author": {
+        "@type": "Organization",
+        "name": "kitchenApp"
+      },
+      "recipeIngredient": [
+        {
+          "id": 1,
+          "quantity": "2/3 cups",
+          "ingName": "of stale toasted dark rye bread"
+        },
+        {
+          "id": 2,
+          "quantity": "2 cups",
+          "ingName": "boiling water"
+        },
+        {
+          "id": 3,
+          "quantity": "1/4 cup",
+          "ingName": "sugar"
+        },
+        {
+          "id": 4,
+          "quantity": "1/4 cup",
+          "ingName": "brown sugar"
+        },
+        {
+          "id": 5,
+          "quantity": "2 tbsp",
+          "ingName": "cranberry juice concentrate"
+        },
+        {
+          "id": 6,
+          "quantity": "1/3 cup",
+          "ingName": "assorted dried fruit (apples, raisins, prunes), finely chopped"
+        },
+        {
+          "id": 7,
+          "quantity": "",
+          "ingName": "Cinnamon, Ground cloves, Whipped cream "
+        }
+      ],
+      "recipeInstructions": "Pre-heat oven to 350°. Place rye bread on a baking sheet and bake until lightly toasted and dry. Grate the bread coarsely or use a food processor to blend. Bring water to boil in a small sauce pot, and soak grated bread in water until it is soft. Stir in sugar, cinnamon, cloves, and fruit. Continue to cook over low heat for about 30 minutes or until the fruit and sugar has permeated through. Remove from heat and stir in cranberry concentrate. Chill completely. Serve with a dollop of whipped cream on top."
+    },
+    {
+      "id": 3,
+      "name": "Bacon Pie (Piragi)",
+      "image": [
+        "/piragi"
+      ],
+      "recipeCategory": "Dessert ",
+      "recipeCuisine": "Latvia",
+      "prepTime": "100",
+      "cookTime": "20 min",
+      "totalTime": "120",
+      "description": "Speķa pīrāgi or bacon pies/pasties have become the most popular and most recognised of Latvian treats. Traditionally they would be eaten at any major celebration, be it birthday, Chistmas or Jāņi; hand-made from yeasty dough and streaky smoked bacon.",
+      "author": {
+        "@type": "Organization",
+        "name": "kitchenApp"
+      },
+      "recipeIngredient": [
+        {
+          "id": 1,
+          "quantity": "1 cup",
+          "ingName": "milk (preferably full-fat)"
+        },
+        {
+          "id": 2,
+          "quantity": "¼ cup",
+          "ingName": "coconut sugar"
+        },
+        {
+          "id": 3,
+          "quantity": "2 packages",
+          "ingName": "dry active yeast"
+        },
+        {
+          "id": 4,
+          "quantity": "¼ cup",
+          "ingName": "butter, cubed"
+        },
+        {
+          "id": 5,
+          "quantity": "¼ cup",
+          "ingName": "Greek yogurt"
+        },
+        {
+          "id": 6,
+          "quantity": "1",
+          "ingName": "egg, lightly whisked finely chopped"
+        },
+        {
+          "id": 7,
+          "quantity": "2½ cups",
+          "ingName": "organic pastry flour"
+        },
+        {
+          "id": 8,
+          "quantity": "1 pound",
+          "ingName": "smoked bacon"
+        },
+        {
+          "id": 9,
+          "quantity": "1",
+          "ingName": "medium sized yellow onion, diced"
+        },
+        {
+          "id": 9,
+          "quantity": "½ cup",
+          "ingName": "mushrooms, sliced"
+        },
+        {
+          "id": 10,
+          "quantity": "1 teaspoon",
+          "ingName": "caraway seeds"
+        },
+        {
+          "id": 11,
+          "quantity": "1 teaspoon",
+          "ingName": "salt"
+        },
+        {
+          "id": 12,
+          "quantity": "1 teaspoon",
+          "ingName": "black pepper"
+        },
+        {
+          "id": 13,
+          "quantity": "1",
+          "ingName": "egg, beaten (for egg wash)"
+        }
+      ],
+      "recipeInstructions": "Pre-heat oven to 350°. Place rye bread on a baking sheet and bake until lightly toasted and dry. Grate the bread coarsely or use a food processor to blend. Bring water to boil in a small sauce pot, and soak grated bread in water until it is soft. Stir in sugar, cinnamon, cloves, and fruit. Continue to cook over low heat for about 30 minutes or until the fruit and sugar has permeated through. Remove from heat and stir in cranberry concentrate. Chill completely. Serve with a dollop of whipped cream on top."
+    }
+  ]
+}
