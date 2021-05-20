@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 const RecipesCard = ({
-  img,
+  image,
   name,
   description,
   recipeCategory,
@@ -14,7 +14,7 @@ const RecipesCard = ({
       <h2>{name}</h2>
       <div className="recipes">
         <div className="recipes-img">
-          <img src={`assets/img/${img}.jpg`} alt={""} />
+          <img src={`assets/img/${image}.jpg`} alt={""} />
         </div>
         <div className="recipes-details">
           <h3 className="recipes-title">{name}</h3>
@@ -29,7 +29,7 @@ const RecipesCard = ({
               <strong> {recipeCuisine}</strong>
             </li>
           </ul>
-          <Link to={`/${link}`} className="btn-recipes">
+          <Link to={`/single/${link}`} className="btn-recipes">
             View Recipe
           </Link>
         </div>

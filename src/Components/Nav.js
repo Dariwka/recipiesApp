@@ -7,7 +7,7 @@ class Nav extends Component {
       <nav>
         <ul>
           <li>
-            <Link to="/">Home</Link>
+            <Link to="/recipiesApp">Home</Link>
           </li>
           <li>
             <Link to="/recipes">Recipes</Link>
